@@ -1,0 +1,39 @@
+//
+//  Amount.swift
+//  MarketData
+//
+//  Created by Charmaine Lim on 4/8/21.
+//
+ 
+import Foundation
+
+public struct Amount: Codable {
+    
+    var value: Decimal
+    var currency: Currency
+    
+    public init(value: Decimal, currency: Currency) {
+        self.value = value
+        self.currency = currency
+    }
+    
+    public func getAmount() -> String {
+        return "\(getValue()) \(currency.rawValue)"
+    }
+    
+    public func getCurrency() -> String {
+        return currency.rawValue
+    }
+    
+    public func getValue() -> String {
+        let currencyFormatter = NumberFormatter()
+        currencyFormatter.usesGroupingSeparator = true
+        currencyFormatter.currencyCode = currency.rawValue
+        currencyFormatter.numberStyle = .currency
+        currencyFormatter.currencySymbol = ""
+        guard let value = currencyFormatter.string(from: NSDecimalNumber(decimal: value)) else {
+            return ""
+        }
+        return value
+    }
+}

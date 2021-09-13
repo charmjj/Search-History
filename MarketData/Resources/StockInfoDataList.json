@@ -1,0 +1,5385 @@
+[
+  {
+    "name": "Procter & Gamble Company, The",
+    "symbol": "PG",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/pg.png",
+    "priceInfo": {
+      "symbol": "PG",
+      "tradePrice": {
+        "value": 144.34,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 144.34,
+        "currency": "USD"
+      },
+      "percentageChange": 101.4549799676671,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "QUALCOMM Incorporated",
+    "symbol": "QCOM",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "QCOM",
+      "tradePrice": {
+        "value": 147.2,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 147.2,
+        "currency": "USD"
+      },
+      "percentageChange": 100.91177075478164,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "MasterCard Inc.",
+    "symbol": "MA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ma.png",
+    "priceInfo": {
+      "symbol": "MA",
+      "tradePrice": {
+        "value": 364,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 364,
+        "currency": "USD"
+      },
+      "percentageChange": 98.9560678555894,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Wal-Mart Stores Inc.",
+    "symbol": "WMT",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/wmt.png",
+    "priceInfo": {
+      "symbol": "WMT",
+      "tradePrice": {
+        "value": 149.99,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 149.99,
+        "currency": "USD"
+      },
+      "percentageChange": 100.88108689803606,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Philip Morris International, Inc.",
+    "symbol": "PM",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "PM",
+      "tradePrice": {
+        "value": 101.89,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 101.89,
+        "currency": "USD"
+      },
+      "percentageChange": 101.93077230892358,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Visa, Inc.",
+    "symbol": "V",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/v.png",
+    "priceInfo": {
+      "symbol": "V",
+      "tradePrice": {
+        "value": 234.6,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 234.6,
+        "currency": "USD"
+      },
+      "percentageChange": 98.54244549922292,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Stryker Corporation",
+    "symbol": "SYK",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SYK",
+      "tradePrice": {
+        "value": 262.12,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 262.12,
+        "currency": "USD"
+      },
+      "percentageChange": 103.39631572719026,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Newmont Mining Corp.",
+    "symbol": "NEM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/nem.png",
+    "priceInfo": {
+      "symbol": "NEM",
+      "tradePrice": {
+        "value": 59.9,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 59.9,
+        "currency": "USD"
+      },
+      "percentageChange": 103.18690783807062,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "International Business Machines Corp.",
+    "symbol": "IBM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ibm.png",
+    "priceInfo": {
+      "symbol": "IBM",
+      "tradePrice": {
+        "value": 142.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 142.5,
+        "currency": "USD"
+      },
+      "percentageChange": 100.79219125760362,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Microsoft Corporation",
+    "symbol": "MSFT",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/msft.png",
+    "priceInfo": {
+      "symbol": "MSFT",
+      "tradePrice": {
+        "value": 286.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 286.5,
+        "currency": "USD"
+      },
+      "percentageChange": 100.02094679514035,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Boeing Company, The",
+    "symbol": "BA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ba.png",
+    "priceInfo": {
+      "symbol": "BA",
+      "tradePrice": {
+        "value": 240.59,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 240.59,
+        "currency": "USD"
+      },
+      "percentageChange": 102.04003732292814,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "HSBC Holdings plc",
+    "symbol": "HSBC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/hsbc.png",
+    "priceInfo": {
+      "symbol": "HSBC",
+      "tradePrice": {
+        "value": 28.57,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 28.57,
+        "currency": "USD"
+      },
+      "percentageChange": 100.81157374735356,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Novo Nordisk A/S",
+    "symbol": "NVO",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/nvo.png",
+    "priceInfo": {
+      "symbol": "NVO",
+      "tradePrice": {
+        "value": 100.8,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 100.8,
+        "currency": "USD"
+      },
+      "percentageChange": 100.68924183398262,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Raytheon Technologies Corporation",
+    "symbol": "RTX",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/rtx.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "RTX",
+      "tradePrice": {
+        "value": 89.01,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 89.01,
+        "currency": "USD"
+      },
+      "percentageChange": 101.55162578436965,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "3M Company",
+    "symbol": "MMM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/mmm.png",
+    "priceInfo": {
+      "symbol": "MMM",
+      "tradePrice": {
+        "value": 203.27,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 203.27,
+        "currency": "USD"
+      },
+      "percentageChange": 102.01756587202009,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Abbott Laboratories",
+    "symbol": "ABT",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/abt.png",
+    "priceInfo": {
+      "symbol": "ABT",
+      "tradePrice": {
+        "value": 123.8,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 123.8,
+        "currency": "USD"
+      },
+      "percentageChange": 100.8964955175224,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Canadian Imperial Bank of Commerce",
+    "symbol": "CM",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/cm.png",
+    "priceInfo": {
+      "symbol": "CM",
+      "tradePrice": {
+        "value": 119.12,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 119.12,
+        "currency": "USD"
+      },
+      "percentageChange": 101.22365737593472,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Coinbase Global Inc",
+    "symbol": "COIN",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/coin_1618262355.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "COIN",
+      "tradePrice": {
+        "value": 273.62,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 273.62,
+        "currency": "USD"
+      },
+      "percentageChange": 101.46475321689472,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Humana Inc.",
+    "symbol": "HUM",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "HUM",
+      "tradePrice": {
+        "value": 421.53,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 421.53,
+        "currency": "USD"
+      },
+      "percentageChange": 101.62246865959497,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Rio Tinto plc",
+    "symbol": "RIO",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/rio.png",
+    "priceInfo": {
+      "symbol": "RIO",
+      "tradePrice": {
+        "value": 79.69,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 79.69,
+        "currency": "USD"
+      },
+      "percentageChange": 93.67368197863397,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Adobe Systems Inc.",
+    "symbol": "ADBE",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/adbe.png",
+    "priceInfo": {
+      "symbol": "ADBE",
+      "tradePrice": {
+        "value": 633,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 633,
+        "currency": "USD"
+      },
+      "percentageChange": 101.81104641811689,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Lululemon Athletica Inc.",
+    "symbol": "LULU",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/lulu.png",
+    "priceInfo": {
+      "symbol": "LULU",
+      "tradePrice": {
+        "value": 420.92,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 420.92,
+        "currency": "USD"
+      },
+      "percentageChange": 103.70808386921921,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Alphabet Inc. - Class A Shares",
+    "symbol": "GOOGL",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/googl.png",
+    "priceInfo": {
+      "symbol": "GOOGL",
+      "tradePrice": {
+        "value": 2729.49,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 2729.49,
+        "currency": "USD"
+      },
+      "percentageChange": 99.75695688086135,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Alphabet Inc. - Class C Shares",
+    "symbol": "GOOG",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/goog.png",
+    "priceInfo": {
+      "symbol": "GOOG",
+      "tradePrice": {
+        "value": 2762.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 2762.5,
+        "currency": "USD"
+      },
+      "percentageChange": 100.02063774244823,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Goldman Sachs Group, Inc., The",
+    "symbol": "GS",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/gs.png",
+    "priceInfo": {
+      "symbol": "GS",
+      "tradePrice": {
+        "value": 416,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 416,
+        "currency": "USD"
+      },
+      "percentageChange": 101.96828198151823,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Gilead Sciences Inc.",
+    "symbol": "GILD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/gild.png",
+    "priceInfo": {
+      "symbol": "GILD",
+      "tradePrice": {
+        "value": 70.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 70.5,
+        "currency": "USD"
+      },
+      "percentageChange": 101.81975736568458,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Public Storage",
+    "symbol": "PSA",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "PSA",
+      "tradePrice": {
+        "value": 323.19,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 323.19,
+        "currency": "USD"
+      },
+      "percentageChange": 103.91961414790998,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "IQVIA Holdings Inc.",
+    "symbol": "IQV",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/q.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "IQV",
+      "tradePrice": {
+        "value": 250.12,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 250.12,
+        "currency": "USD"
+      },
+      "percentageChange": 101.10352075669995,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Sea Limited",
+    "symbol": "SE",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/se.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "SE",
+      "tradePrice": {
+        "value": 304,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 304,
+        "currency": "USD"
+      },
+      "percentageChange": 102.37413706011114,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Bristol-Myers Squibb Co.",
+    "symbol": "BMY",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bmy.png",
+    "priceInfo": {
+      "symbol": "BMY",
+      "tradePrice": {
+        "value": 67.23,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 67.23,
+        "currency": "USD"
+      },
+      "percentageChange": 99.77738201246662,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Dominion Resources, Inc.",
+    "symbol": "D",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "D",
+      "tradePrice": {
+        "value": 77.3,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 77.3,
+        "currency": "USD"
+      },
+      "percentageChange": 101.1250654107797,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Trane Technologies PLC",
+    "symbol": "TT",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TT",
+      "tradePrice": {
+        "value": 202.22,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 202.22,
+        "currency": "USD"
+      },
+      "percentageChange": 105.20237228176047,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "L3Harris Technologies Inc",
+    "symbol": "LHX",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "LHX",
+      "tradePrice": {
+        "value": 240.98,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 240.98,
+        "currency": "USD"
+      },
+      "percentageChange": 103.59384403748602,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Uber Technologies, Inc.",
+    "symbol": "UBER",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/uber.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "UBER",
+      "tradePrice": {
+        "value": 43,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 43,
+        "currency": "USD"
+      },
+      "percentageChange": 98.85057471264368,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Norfolk Southern Corporation",
+    "symbol": "NSC",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "NSC",
+      "tradePrice": {
+        "value": 272.87,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 272.87,
+        "currency": "USD"
+      },
+      "percentageChange": 105.3267456671942,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Nike, Inc.",
+    "symbol": "NKE",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/nke.png",
+    "priceInfo": {
+      "symbol": "NKE",
+      "tradePrice": {
+        "value": 174.01,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 174.01,
+        "currency": "USD"
+      },
+      "percentageChange": 101.01004237534102,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "KLA-Tencor Corporation",
+    "symbol": "KLAC",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "KLAC",
+      "tradePrice": {
+        "value": 352.32,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 352.32,
+        "currency": "USD"
+      },
+      "percentageChange": 103.01754385964912,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Citigroup Inc.",
+    "symbol": "C",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/c.png",
+    "priceInfo": {
+      "symbol": "C",
+      "tradePrice": {
+        "value": 74.45,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 74.45,
+        "currency": "USD"
+      },
+      "percentageChange": 102.01425047958344,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Exxon Mobil Corp.",
+    "symbol": "XOM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/xom.png",
+    "priceInfo": {
+      "symbol": "XOM",
+      "tradePrice": {
+        "value": 57.6,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 57.6,
+        "currency": "USD"
+      },
+      "percentageChange": 99.00309384668272,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Facebook, Inc.",
+    "symbol": "FB",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/fb.png",
+    "priceInfo": {
+      "symbol": "FB",
+      "tradePrice": {
+        "value": 359.35,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 359.35,
+        "currency": "USD"
+      },
+      "percentageChange": 99.50710270539696,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Anheuser-Busch InBev SA/NV",
+    "symbol": "BUD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bud.png",
+    "priceInfo": {
+      "symbol": "BUD",
+      "tradePrice": {
+        "value": 61.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 61.5,
+        "currency": "USD"
+      },
+      "percentageChange": 100.7041100376617,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Diageo plc",
+    "symbol": "DEO",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/deo.png",
+    "priceInfo": {
+      "symbol": "DEO",
+      "tradePrice": {
+        "value": 200.12,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 200.12,
+        "currency": "USD"
+      },
+      "percentageChange": 100.53755337854811,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "T. Rowe Price Group, Inc.",
+    "symbol": "TROW",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TROW",
+      "tradePrice": {
+        "value": 223.34,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 223.34,
+        "currency": "USD"
+      },
+      "percentageChange": 102.78429748262693,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "BioNTech SE",
+    "symbol": "BNTX",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "BNTX",
+      "tradePrice": {
+        "value": 373.6,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 373.6,
+        "currency": "USD"
+      },
+      "percentageChange": 89.6998799519808,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Southern Copper Corp.",
+    "symbol": "SCCO",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/scco.png",
+    "priceInfo": {
+      "symbol": "SCCO",
+      "tradePrice": {
+        "value": 67,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 67,
+        "currency": "USD"
+      },
+      "percentageChange": 100.70644821884865,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "SAP SE",
+    "symbol": "SAP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/sap.png",
+    "priceInfo": {
+      "symbol": "SAP",
+      "tradePrice": {
+        "value": 144.82,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 144.82,
+        "currency": "USD"
+      },
+      "percentageChange": 99.36192109777015,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Domino's Pizza, Inc.",
+    "symbol": "DPZ",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "DPZ",
+      "tradePrice": {
+        "value": 522.6,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 522.6,
+        "currency": "USD"
+      },
+      "percentageChange": 100.70722448114391,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Taiwan Semiconductor Manufacturing Company Limited",
+    "symbol": "TSM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/tsm.png",
+    "priceInfo": {
+      "symbol": "TSM",
+      "tradePrice": {
+        "value": 116.09,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 116.09,
+        "currency": "USD"
+      },
+      "percentageChange": 99.76796149879684,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "JPMorgan Chase & Co.",
+    "symbol": "JPM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/jpm.png",
+    "priceInfo": {
+      "symbol": "JPM",
+      "tradePrice": {
+        "value": 161.75,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 161.75,
+        "currency": "USD"
+      },
+      "percentageChange": 101.5634811000879,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Accenture plc",
+    "symbol": "ACN",
+    "imageURL": "http://d318mjt2srh58u.cloudfront.net/images/symbols/acn.png",
+    "priceInfo": {
+      "symbol": "ACN",
+      "tradePrice": {
+        "value": 328.48,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 328.48,
+        "currency": "USD"
+      },
+      "percentageChange": 102.59229183584236,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Bilibili Inc.",
+    "symbol": "BILI",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/bili.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "BILI",
+      "tradePrice": {
+        "value": 79.86,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 79.86,
+        "currency": "USD"
+      },
+      "percentageChange": 99.58847736625515,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Stellantis NV",
+    "symbol": "STLA",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "STLA",
+      "tradePrice": {
+        "value": 18.274,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 18.274,
+        "currency": "USD"
+      },
+      "percentageChange": 101.80501392757661,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "NVIDIA Corporation",
+    "symbol": "NVDA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/nvda.png",
+    "priceInfo": {
+      "symbol": "NVDA",
+      "tradePrice": {
+        "value": 196.98,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 196.98,
+        "currency": "USD"
+      },
+      "percentageChange": 98.8061797752809,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "BHP Billiton plc",
+    "symbol": "BBL",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/bbl.png",
+    "priceInfo": {
+      "symbol": "BBL",
+      "tradePrice": {
+        "value": 64.38,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 64.38,
+        "currency": "USD"
+      },
+      "percentageChange": 99.64401795387711,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Moderna, Inc.",
+    "symbol": "MRNA",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/mrna.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "MRNA",
+      "tradePrice": {
+        "value": 392,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 392,
+        "currency": "USD"
+      },
+      "percentageChange": 85.82187582100009,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Oracle Corp.",
+    "symbol": "ORCL",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/orcl.png",
+    "priceInfo": {
+      "symbol": "ORCL",
+      "tradePrice": {
+        "value": 90.7,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 90.7,
+        "currency": "USD"
+      },
+      "percentageChange": 101.18250780901383,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Pepsico, Inc.",
+    "symbol": "PEP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/pep.png",
+    "priceInfo": {
+      "symbol": "PEP",
+      "tradePrice": {
+        "value": 156.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 156.5,
+        "currency": "USD"
+      },
+      "percentageChange": 101.34041313216345,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Novartis AG",
+    "symbol": "NVS",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/nvs.png",
+    "priceInfo": {
+      "symbol": "NVS",
+      "tradePrice": {
+        "value": 93.12,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 93.12,
+        "currency": "USD"
+      },
+      "percentageChange": 100.92120949387669,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "NextEra Energy, Inc.",
+    "symbol": "NEE",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "NEE",
+      "tradePrice": {
+        "value": 83,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 83,
+        "currency": "USD"
+      },
+      "percentageChange": 103.06717993294426,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Global Payments Inc.",
+    "symbol": "GPN",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "GPN",
+      "tradePrice": {
+        "value": 172.1,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 172.1,
+        "currency": "USD"
+      },
+      "percentageChange": 101.38438880706921,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Biogen Inc.",
+    "symbol": "BIIB",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/biib.png",
+    "priceInfo": {
+      "symbol": "BIIB",
+      "tradePrice": {
+        "value": 345.45,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 345.45,
+        "currency": "USD"
+      },
+      "percentageChange": 102.44054326552398,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "IDEXX Laboratories, Inc.",
+    "symbol": "IDXX",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/idxx.png",
+    "priceInfo": {
+      "symbol": "IDXX",
+      "tradePrice": {
+        "value": 689.76,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 689.76,
+        "currency": "USD"
+      },
+      "percentageChange": 102.71469629056035,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Square, Inc.",
+    "symbol": "SQ",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/sq.png",
+    "priceInfo": {
+      "symbol": "SQ",
+      "tradePrice": {
+        "value": 273.99,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 273.99,
+        "currency": "USD"
+      },
+      "percentageChange": 100.33323568185149,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Salesforce.com, Inc",
+    "symbol": "CRM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/crm.png",
+    "priceInfo": {
+      "symbol": "CRM",
+      "tradePrice": {
+        "value": 242.48,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 242.48,
+        "currency": "USD"
+      },
+      "percentageChange": 99.62611446649412,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Jacobs Engineering Group Inc.",
+    "symbol": "J",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "J",
+      "tradePrice": {
+        "value": 140.83,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 140.83,
+        "currency": "USD"
+      },
+      "percentageChange": 106.91618584877011,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Johnson & Johnson",
+    "symbol": "JNJ",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/jnj.png",
+    "priceInfo": {
+      "symbol": "JNJ",
+      "tradePrice": {
+        "value": 174,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 174,
+        "currency": "USD"
+      },
+      "percentageChange": 100.13235886516661,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Roper Technologies Inc.",
+    "symbol": "ROP",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ROP",
+      "tradePrice": {
+        "value": 497.36,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 497.36,
+        "currency": "USD"
+      },
+      "percentageChange": 103.74634960367126,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Petróleo Brasileiro S.A.",
+    "symbol": "PBR",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/pbr.png",
+    "priceInfo": {
+      "symbol": "PBR",
+      "tradePrice": {
+        "value": 11.4,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 11.4,
+        "currency": "USD"
+      },
+      "percentageChange": 102.42587601078166,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Honeywell International Inc.",
+    "symbol": "HON",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/hon.png",
+    "priceInfo": {
+      "symbol": "HON",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -231.92,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Marvell Technology Group Ltd.",
+    "symbol": "MRVL",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "MRVL",
+      "tradePrice": {
+        "value": 60.9,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 60.9,
+        "currency": "USD"
+      },
+      "percentageChange": 101.92468619246861,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Linde plc",
+    "symbol": "LIN",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/lin.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "LIN",
+      "tradePrice": {
+        "value": 308.06,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 308.06,
+        "currency": "USD"
+      },
+      "percentageChange": 102.08098614885017,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Shopify Inc.",
+    "symbol": "SHOP",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/shop.png",
+    "priceInfo": {
+      "symbol": "SHOP",
+      "tradePrice": {
+        "value": 1540,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 1540,
+        "currency": "USD"
+      },
+      "percentageChange": 100.92139926864752,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "America Movil S.A.B. de C.V.",
+    "symbol": "AMX",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/amx.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "AMX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -16.65,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "VMware, Inc.",
+    "symbol": "VMW",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/vmw.png",
+    "priceInfo": {
+      "symbol": "VMW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -156.84,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "CSX Corp.",
+    "symbol": "CSX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/csx.png",
+    "priceInfo": {
+      "symbol": "CSX",
+      "tradePrice": {
+        "value": 34.07,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 34.07,
+        "currency": "USD"
+      },
+      "percentageChange": 103.39908952959027,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Toyota Motor Corporation",
+    "symbol": "TM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/tm.png",
+    "priceInfo": {
+      "symbol": "TM",
+      "tradePrice": {
+        "value": 182.75,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 182.75,
+        "currency": "USD"
+      },
+      "percentageChange": 101.58421345191772,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Tesla Motors, Inc.",
+    "symbol": "TSLA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/tsla.png",
+    "priceInfo": {
+      "symbol": "TSLA",
+      "tradePrice": {
+        "value": 706.5,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 706.5,
+        "currency": "USD"
+      },
+      "percentageChange": 99.50844378089833,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Freeport-McMoRan Inc.",
+    "symbol": "FCX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/fcx.png",
+    "priceInfo": {
+      "symbol": "FCX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -38.22,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ING Groep N.V.",
+    "symbol": "ING",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/ing.png",
+    "priceInfo": {
+      "symbol": "ING",
+      "tradePrice": {
+        "value": 13.73,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 13.73,
+        "currency": "USD"
+      },
+      "percentageChange": 101.4032496307238,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Ambev S.A.",
+    "symbol": "ABEV",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ABEV",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -3.2,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Unilever plc",
+    "symbol": "UL",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/ul.png",
+    "priceInfo": {
+      "symbol": "UL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -57.09,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Illumina Inc.",
+    "symbol": "ILMN",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ILMN",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -506.38,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Bank of Nova Scotia",
+    "symbol": "BNS",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/bns.png",
+    "priceInfo": {
+      "symbol": "BNS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -64.45,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "BHP Billiton Limited",
+    "symbol": "BHP",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/bhp.png",
+    "priceInfo": {
+      "symbol": "BHP",
+      "tradePrice": {
+        "value": 77.41,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 77.41,
+        "currency": "USD"
+      },
+      "percentageChange": 99.84522120469495,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Pinterest, Inc.",
+    "symbol": "PINS",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/pins.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "PINS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -57.24,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "NetEase, Inc.",
+    "symbol": "NTES",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ntes.png",
+    "priceInfo": {
+      "symbol": "NTES",
+      "tradePrice": {
+        "value": 92.85,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 92.85,
+        "currency": "USD"
+      },
+      "percentageChange": 101.64203612479474,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "UnitedHealth Group Incorporated",
+    "symbol": "UNH",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/unh.png",
+    "priceInfo": {
+      "symbol": "UNH",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -411.78,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Equinix, Inc.",
+    "symbol": "EQIX",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/eqix_1604585422.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "EQIX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -797.97,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Cisco Systems, Inc.",
+    "symbol": "CSCO",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/csco.png",
+    "priceInfo": {
+      "symbol": "CSCO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -55.61,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Atlassian Corporation Plc",
+    "symbol": "TEAM",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/team.png",
+    "priceInfo": {
+      "symbol": "TEAM",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -327.52,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Spotify Technology SA",
+    "symbol": "SPOT",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/spot.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "SPOT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -215.48,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "General Motors Co.",
+    "symbol": "GM",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/gm.png",
+    "priceInfo": {
+      "symbol": "GM",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -54.26,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Mercadolibre, Inc.",
+    "symbol": "MELI",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/meli.png",
+    "priceInfo": {
+      "symbol": "MELI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -1878.53,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Coupang, LLC",
+    "symbol": "CPNG",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/cpng_1615484329.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "CPNG",
+      "tradePrice": {
+        "value": 35,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 35,
+        "currency": "USD"
+      },
+      "percentageChange": 95.36784741144413,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Edwards Lifesciences Corp.",
+    "symbol": "EW",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "EW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -111.95,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Texas Instruments Inc.",
+    "symbol": "TXN",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TXN",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -189.65,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "GlaxoSmithKline plc",
+    "symbol": "GSK",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/gsk.png",
+    "priceInfo": {
+      "symbol": "GSK",
+      "tradePrice": {
+        "value": 41.28,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 41.28,
+        "currency": "USD"
+      },
+      "percentageChange": 101.54981549815498,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Altria Group Inc.",
+    "symbol": "MO",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/mo.png",
+    "priceInfo": {
+      "symbol": "MO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -48.11,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Zoetis Inc.",
+    "symbol": "ZTS",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/zts.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "ZTS",
+      "tradePrice": {
+        "value": 197.2,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 197.2,
+        "currency": "USD"
+      },
+      "percentageChange": 99.21513382974442,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ICICI Bank Ltd.",
+    "symbol": "IBN",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ibn.png",
+    "priceInfo": {
+      "symbol": "IBN",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -19.03,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Roku, Inc.",
+    "symbol": "ROKU",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/roku.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "ROKU",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -379.26,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Marsh & McLennan Companies, Inc.",
+    "symbol": "MMC",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "MMC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -150.32,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Sherwin-Williams Company, The",
+    "symbol": "SHW",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SHW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -296.07,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Enbridge Inc.",
+    "symbol": "ENB",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ENB",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -39.78,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Ecolab Inc.",
+    "symbol": "ECL",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ECL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -219.06,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Cigna Corp.",
+    "symbol": "CI",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ci.png",
+    "priceInfo": {
+      "symbol": "CI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -210.95,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Banco Santander, S.A.",
+    "symbol": "SAN",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/san.png",
+    "priceInfo": {
+      "symbol": "SAN",
+      "tradePrice": {
+        "value": 3.9,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 3.9,
+        "currency": "USD"
+      },
+      "percentageChange": 101.03626943005182,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Fidelity National Information Services, ",
+    "symbol": "FIS",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "FIS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -132.5,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Amazon.com Inc.",
+    "symbol": "AMZN",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/amzn.png",
+    "priceInfo": {
+      "symbol": "AMZN",
+      "tradePrice": {
+        "value": 3305.59,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 3305.59,
+        "currency": "USD"
+      },
+      "percentageChange": 99.5455750027103,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Autodesk, Inc.",
+    "symbol": "ADSK",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/adsk.png",
+    "priceInfo": {
+      "symbol": "ADSK",
+      "tradePrice": {
+        "value": 336.49,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 336.49,
+        "currency": "USD"
+      },
+      "percentageChange": 101.57268775658055,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ASML Holding NV",
+    "symbol": "ASML",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/asml.png",
+    "priceInfo": {
+      "symbol": "ASML",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -789.29,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Comcast Corporation",
+    "symbol": "CMCSA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cmcsa.png",
+    "priceInfo": {
+      "symbol": "CMCSA",
+      "tradePrice": {
+        "value": 59.51,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 59.51,
+        "currency": "USD"
+      },
+      "percentageChange": 101.81351582549188,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Activision Blizzard, Inc.",
+    "symbol": "ATVI",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/atvi.png",
+    "priceInfo": {
+      "symbol": "ATVI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -82.99,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Kraft Heinz Company, The",
+    "symbol": "KHC",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/khc.png",
+    "priceInfo": {
+      "symbol": "KHC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -37.47,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Enterprise Products Partners L.P.",
+    "symbol": "EPD",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/epd.png",
+    "priceInfo": {
+      "symbol": "EPD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -22.75,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "NIO Inc.",
+    "symbol": "NIO",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/nio.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "NIO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -44.22,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Bank of Montreal",
+    "symbol": "BMO",
+    "imageURL": "https://www.sec.gov/cgi-bin/browse-edgar?CIK=bmo&owner=exclude&action=getcompany",
+    "priceInfo": {
+      "symbol": "BMO",
+      "tradePrice": {
+        "value": 110.2,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 110.2,
+        "currency": "USD"
+      },
+      "percentageChange": 107.92282832239741,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Advanced Micro Devices, Inc.",
+    "symbol": "AMD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/amd.png",
+    "priceInfo": {
+      "symbol": "AMD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -106.48,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Boston Scientific Corp.",
+    "symbol": "BSX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bsx.png",
+    "priceInfo": {
+      "symbol": "BSX",
+      "tradePrice": {
+        "value": 43.84,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 43.84,
+        "currency": "USD"
+      },
+      "percentageChange": 102.79015240328255,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Mondelez International, Inc.",
+    "symbol": "MDLZ",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/mdlz.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "MDLZ",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -62.04,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "CME Group Inc.",
+    "symbol": "CME",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "CME",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -208.93,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Deere & Company",
+    "symbol": "DE",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/de.png",
+    "priceInfo": {
+      "symbol": "DE",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -376.62,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Blackstone Group L.P., The",
+    "symbol": "BX",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/bx.png",
+    "priceInfo": {
+      "symbol": "BX",
+      "tradePrice": {
+        "value": 115,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 115,
+        "currency": "USD"
+      },
+      "percentageChange": 101.03672465296083,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Automatic Data Processing, Inc.",
+    "symbol": "ADP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/adp.png",
+    "priceInfo": {
+      "symbol": "ADP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -216.72,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Lockheed Martin Corporation",
+    "symbol": "LMT",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "LMT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -362.24,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Ford Motor Co.",
+    "symbol": "F",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/f.png",
+    "priceInfo": {
+      "symbol": "F",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -13.82,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Twilio",
+    "symbol": "TWLO",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/twlo.png",
+    "priceInfo": {
+      "symbol": "TWLO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -366.69,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Intuit Inc.",
+    "symbol": "INTU",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "INTU",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -530.13,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "BP p.l.c.",
+    "symbol": "BP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bp.png",
+    "priceInfo": {
+      "symbol": "BP",
+      "tradePrice": {
+        "value": 25.78,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 25.78,
+        "currency": "USD"
+      },
+      "percentageChange": 99.61360123647606,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Northrop Grumman Corporation",
+    "symbol": "NOC",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "NOC",
+      "tradePrice": {
+        "value": 375.55,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 375.55,
+        "currency": "USD"
+      },
+      "percentageChange": 103.54858277269219,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Banco Bradesco S.A. - Preferred Shares",
+    "symbol": "BBD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bbd.png",
+    "priceInfo": {
+      "symbol": "BBD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -4.5,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Capital One Financial Corporation",
+    "symbol": "COF",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cof.png",
+    "priceInfo": {
+      "symbol": "COF",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -170.67,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Alibaba Group",
+    "symbol": "BABA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/baba.png",
+    "priceInfo": {
+      "symbol": "BABA",
+      "tradePrice": {
+        "value": 194.25,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 194.25,
+        "currency": "USD"
+      },
+      "percentageChange": 99.24385633270322,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Prologis, Inc.",
+    "symbol": "PLD",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/pld.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "PLD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -129.35,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Booking Holdings Inc.",
+    "symbol": "BKNG",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/bkng.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "BKNG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -2200.47,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Apple, Inc.",
+    "symbol": "AAPL",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/aapl.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "AAPL",
+      "tradePrice": {
+        "value": 145.76,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 145.76,
+        "currency": "USD"
+      },
+      "percentageChange": 100.1098901098901,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Becton, Dickinson and Company",
+    "symbol": "BDX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bdx.png",
+    "priceInfo": {
+      "symbol": "BDX",
+      "tradePrice": {
+        "value": 242.37,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 242.37,
+        "currency": "USD"
+      },
+      "percentageChange": 101.56727988936849,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Tencent Music Entertainment Group",
+    "symbol": "TME",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/tme.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "TME",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -10.62,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Air Products & Chemicals Inc.",
+    "symbol": "APD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/apd.png",
+    "priceInfo": {
+      "symbol": "APD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -277.87,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Fiserv, Inc.",
+    "symbol": "FISV",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "FISV",
+      "tradePrice": {
+        "value": 114.28,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 114.28,
+        "currency": "USD"
+      },
+      "percentageChange": 102.95495495495494,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Illinois Tool Works Inc.",
+    "symbol": "ITW",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ITW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -230.71,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Vertex Pharmaceuticals Incorporated",
+    "symbol": "VRTX",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "VRTX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -196.46,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Morgan Stanley",
+    "symbol": "MS",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ms.png",
+    "priceInfo": {
+      "symbol": "MS",
+      "tradePrice": {
+        "value": 104,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 104,
+        "currency": "USD"
+      },
+      "percentageChange": 101.92081536652293,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Itaú Unibanco Holding S.A.",
+    "symbol": "ITUB",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ITUB",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -5.87,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Home Depot, Inc., The",
+    "symbol": "HD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/hd.png",
+    "priceInfo": {
+      "symbol": "HD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -331.48,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Aptiv PLC",
+    "symbol": "APTV",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/aptv.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "APTV",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -169.76,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Sumitomo Mitsui Financial Group, Inc.",
+    "symbol": "SMFG",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/smfg.png",
+    "priceInfo": {
+      "symbol": "SMFG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -6.9,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "MSCI Inc.",
+    "symbol": "MSCI",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "MSCI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -625.08,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "McDonald's Corp.",
+    "symbol": "MCD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/mcd.png",
+    "priceInfo": {
+      "symbol": "MCD",
+      "tradePrice": {
+        "value": 238.17,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 238.17,
+        "currency": "USD"
+      },
+      "percentageChange": 102.02184621974726,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "JD.com, Inc.",
+    "symbol": "JD",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/jd.png",
+    "priceInfo": {
+      "symbol": "JD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -71.76,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Waste Management, Inc.",
+    "symbol": "WM",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "WM",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -146.98,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Aon plc",
+    "symbol": "AON",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/aon.png",
+    "priceInfo": {
+      "symbol": "AON",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -267.36,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Anthem, Inc.",
+    "symbol": "ANTM",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ANTM",
+      "tradePrice": {
+        "value": 380.6,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 380.6,
+        "currency": "USD"
+      },
+      "percentageChange": 100.85592389432124,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Duke Energy Corporation",
+    "symbol": "DUK",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "DUK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -106.9,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "United Parcel Service, Inc.",
+    "symbol": "UPS",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/ups.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "UPS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -190.61,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Kimberly-Clark Corp.",
+    "symbol": "KMB",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/kmb.png",
+    "priceInfo": {
+      "symbol": "KMB",
+      "tradePrice": {
+        "value": 138,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 138,
+        "currency": "USD"
+      },
+      "percentageChange": 103.06968406901188,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Verizon Communications Inc.",
+    "symbol": "VZ",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/vz.png",
+    "priceInfo": {
+      "symbol": "VZ",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -55.48,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Marriott International, Inc.",
+    "symbol": "MAR",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "MAR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -137.99,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Sony Corporation",
+    "symbol": "SONY",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/sne.png",
+    "priceInfo": {
+      "symbol": "SONY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -100.88,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Ferrari N.V.",
+    "symbol": "RACE",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/race.png",
+    "priceInfo": {
+      "symbol": "RACE",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -221.2,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "DexCom, Inc.",
+    "symbol": "DXCM",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/dxcm.png",
+    "priceInfo": {
+      "symbol": "DXCM",
+      "tradePrice": {
+        "value": 504.1,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 504.1,
+        "currency": "USD"
+      },
+      "percentageChange": 100.83209985198225,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Align Technology Inc.",
+    "symbol": "ALGN",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/algn.png",
+    "priceInfo": {
+      "symbol": "ALGN",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -687.38,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "America Movil S.A.B. de C.V.",
+    "symbol": "AMOV",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/amov.png",
+    "priceInfo": {
+      "symbol": "AMOV",
+      "tradePrice": {
+        "value": 17.58,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 17.58,
+        "currency": "USD"
+      },
+      "percentageChange": 106.54545454545455,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Mitsubishi UFJ Financial Group, Inc.",
+    "symbol": "MUFG",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/mtu.png",
+    "priceInfo": {
+      "symbol": "MUFG",
+      "tradePrice": {
+        "value": 5.7,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 5.7,
+        "currency": "USD"
+      },
+      "percentageChange": 104.39560439560441,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Caterpillar Inc.",
+    "symbol": "CAT",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cat.png",
+    "priceInfo": {
+      "symbol": "CAT",
+      "tradePrice": {
+        "value": 224.98,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 224.98,
+        "currency": "USD"
+      },
+      "percentageChange": 105.09646377353201,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Centene Corp.",
+    "symbol": "CNC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cnc.png",
+    "priceInfo": {
+      "symbol": "CNC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -64.99,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Electronic Arts Inc.",
+    "symbol": "EA",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ea.png",
+    "priceInfo": {
+      "symbol": "EA",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -137.03,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "BlackRock, Inc.",
+    "symbol": "BLK",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/blk.png",
+    "priceInfo": {
+      "symbol": "BLK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -912.56,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Banco Santander (Brasil) S.A.",
+    "symbol": "BSBR",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/bsbr.png",
+    "priceInfo": {
+      "symbol": "BSBR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -7.69,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ABB Ltd.",
+    "symbol": "ABB",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/abb.png",
+    "priceInfo": {
+      "symbol": "ABB",
+      "tradePrice": {
+        "value": 37.44,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 37.44,
+        "currency": "USD"
+      },
+      "percentageChange": 100.7534983853606,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Sanofi",
+    "symbol": "SNY",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/sny.png",
+    "priceInfo": {
+      "symbol": "SNY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -50.87,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Dell Technologies Inc. -  Class C Shares",
+    "symbol": "DELL",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/dell.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "DELL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -98.42,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "NXP Semiconductors NV",
+    "symbol": "NXPI",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/nxpi.png",
+    "priceInfo": {
+      "symbol": "NXPI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -217.26,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Walt Disney Company, The",
+    "symbol": "DIS",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/dis.png",
+    "priceInfo": {
+      "symbol": "DIS",
+      "tradePrice": {
+        "value": 178.09,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 178.09,
+        "currency": "USD"
+      },
+      "percentageChange": 100.57604337267747,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Eaton Corporation plc",
+    "symbol": "ETN",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ETN",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -167.35,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "DocuSign, Inc. ",
+    "symbol": "DOCU",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/docu.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "DOCU",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -301.44,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "CrowdStrike Holdings, Inc.",
+    "symbol": "CRWD",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/crwd.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "CRWD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -252.67,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Analog Devices, Inc.",
+    "symbol": "ADI",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/adi.png",
+    "priceInfo": {
+      "symbol": "ADI",
+      "tradePrice": {
+        "value": 172.75,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 172.75,
+        "currency": "USD"
+      },
+      "percentageChange": 101.0233918128655,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "AT&T, Inc.",
+    "symbol": "T",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/t.png",
+    "priceInfo": {
+      "symbol": "T",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -28.09,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Twitter, Inc.",
+    "symbol": "TWTR",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/twtr.png",
+    "priceInfo": {
+      "symbol": "TWTR",
+      "tradePrice": {
+        "value": 65.45,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 65.45,
+        "currency": "USD"
+      },
+      "percentageChange": 99.6498172959805,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Snowflake Inc.",
+    "symbol": "SNOW",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/snow.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "SNOW",
+      "tradePrice": {
+        "value": 275.87,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 275.87,
+        "currency": "USD"
+      },
+      "percentageChange": 100.5027505555758,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Emerson Electric Co.",
+    "symbol": "EMR",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "EMR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -103.07,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Moody's Corporation",
+    "symbol": "MCO",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/mco.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "MCO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -380.35,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Applied Materials, Inc.",
+    "symbol": "AMAT",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/amat.png",
+    "priceInfo": {
+      "symbol": "AMAT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -138.06,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Target Corp.",
+    "symbol": "TGT",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TGT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -264.07,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Costco Wholesale",
+    "symbol": "COST",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cost.png",
+    "priceInfo": {
+      "symbol": "COST",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -443.03,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Fortinet Inc.",
+    "symbol": "FTNT",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "FTNT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -300.4,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Charter Communications, Inc.",
+    "symbol": "CHTR",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/chtr.png",
+    "priceInfo": {
+      "symbol": "CHTR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -766.5,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "RELX PLC",
+    "symbol": "RELX",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/relx.png",
+    "priceInfo": {
+      "symbol": "RELX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -29.79,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Merck & Co. Inc.",
+    "symbol": "MRK",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/mrk.png",
+    "priceInfo": {
+      "symbol": "MRK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -75.19,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "UBS Group AG",
+    "symbol": "UBS",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/ubs.png",
+    "priceInfo": {
+      "symbol": "UBS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -16.93,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Infosys Ltd.",
+    "symbol": "INFY",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/infy.png",
+    "priceInfo": {
+      "symbol": "INFY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -22.78,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Synopsys Inc.",
+    "symbol": "SNPS",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/snps.png",
+    "priceInfo": {
+      "symbol": "SNPS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -288.25,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Eli Lilly and Company",
+    "symbol": "LLY",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "LLY",
+      "tradePrice": {
+        "value": 271.67,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 271.67,
+        "currency": "USD"
+      },
+      "percentageChange": 100.82390053813324,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Fomento Económico Mexicano, S.A.B de C.V",
+    "symbol": "FMX",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/fmx.png",
+    "priceInfo": {
+      "symbol": "FMX",
+      "tradePrice": {
+        "value": 90.28,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 90.28,
+        "currency": "USD"
+      },
+      "percentageChange": 103.75818871394091,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Broadcom",
+    "symbol": "AVGO",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/avgo_1611695514.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "AVGO",
+      "tradePrice": {
+        "value": 493.87,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 493.87,
+        "currency": "USD"
+      },
+      "percentageChange": 102.40741508729731,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Baidu, Inc.",
+    "symbol": "BIDU",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bidu.png",
+    "priceInfo": {
+      "symbol": "BIDU",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -165.55,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Pinduoduo Inc",
+    "symbol": "PDD",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/pdd.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "PDD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -91.59,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "CVS Health Corporation",
+    "symbol": "CVS",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "CVS",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -83.24,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Match Group, Inc.",
+    "symbol": "MTCH",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/mtch.png",
+    "priceInfo": {
+      "symbol": "MTCH",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -139,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ServiceNow, Inc.",
+    "symbol": "NOW",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/now.png",
+    "priceInfo": {
+      "symbol": "NOW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -575.8,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Dollar General Corporation",
+    "symbol": "DG",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "DG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -238.22,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Zoom Video Communications Inc",
+    "symbol": "ZM",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/zm.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "ZM",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -372.55,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "American Express Co.",
+    "symbol": "AXP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/axp.png",
+    "priceInfo": {
+      "symbol": "AXP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -169.49,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Intel Corporation",
+    "symbol": "INTC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/intc.png",
+    "priceInfo": {
+      "symbol": "INTC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -53.94,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Colgate-Palmolive Co.",
+    "symbol": "CL",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cl.png",
+    "priceInfo": {
+      "symbol": "CL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -78.73,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ConocoPhillips",
+    "symbol": "COP",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "COP",
+      "tradePrice": {
+        "value": 57.6,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 57.6,
+        "currency": "USD"
+      },
+      "percentageChange": 101.98300283286119,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "AbbVie Inc.",
+    "symbol": "ABBV",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/abbv.png",
+    "priceInfo": {
+      "symbol": "ABBV",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -114.82,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Danaher Corp.",
+    "symbol": "DHR",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/dhr_1604585491.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "DHR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -308.88,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ROBLOX Corporation",
+    "symbol": "RBLX",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/rblx_1615211080.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "RBLX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -85.08,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Intercontinental Exchange, Inc.",
+    "symbol": "ICE",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ICE",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -119.59,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Bank of New York Mellon Corp., The",
+    "symbol": "BK",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bk.png",
+    "priceInfo": {
+      "symbol": "BK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -53.83,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Southern Company",
+    "symbol": "SO",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -65.21,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Chubb Corporation, The",
+    "symbol": "CB",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/cb.png",
+    "priceInfo": {
+      "symbol": "CB",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -178.1,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "IHS Markit Ltd",
+    "symbol": "INFO",
+    "imageURL": "https://drivewealth.imgix.net/symbols/info.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "INFO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -118.02,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "American International Group, Inc.",
+    "symbol": "AIG",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/aig.png",
+    "priceInfo": {
+      "symbol": "AIG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -53.14,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Snap Inc.",
+    "symbol": "SNAP",
+    "imageURL": "https://drivewealth.imgix.net/symbols/snap.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "SNAP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -75.8,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Truist Financial Corp",
+    "symbol": "TFC",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TFC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -57.96,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Charles Schwab Corp., The",
+    "symbol": "SCHW",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/schw.png",
+    "priceInfo": {
+      "symbol": "SCHW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -74.53,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "U.S. Bancorp",
+    "symbol": "USB",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/usb.png",
+    "priceInfo": {
+      "symbol": "USB",
+      "tradePrice": {
+        "value": 59.46,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 59.46,
+        "currency": "USD"
+      },
+      "percentageChange": 103.10386682850702,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Bank of America Corporation",
+    "symbol": "BAC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bac.png",
+    "priceInfo": {
+      "symbol": "BAC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -41.43,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Starbucks Corporation",
+    "symbol": "SBUX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/sbux.png",
+    "priceInfo": {
+      "symbol": "SBUX",
+      "tradePrice": {
+        "value": 117,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 117,
+        "currency": "USD"
+      },
+      "percentageChange": 100.5241000085918,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Medtronic, Inc.",
+    "symbol": "MDT",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "MDT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -125.3,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "HDFC Bank Ltd.",
+    "symbol": "HDB",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/hdb.png",
+    "priceInfo": {
+      "symbol": "HDB",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -75.36,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "PNC Financial Services Group, Inc.",
+    "symbol": "PNC",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "PNC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -191.7,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Equinor ASA",
+    "symbol": "EQNR",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/eqnr.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "EQNR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -20.56,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "China Petroleum & Chemical Corp.",
+    "symbol": "SNP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/snp.png",
+    "priceInfo": {
+      "symbol": "SNP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -46.02,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "ROCHE HOLDINGS LTD-SPONS ADR",
+    "symbol": "RHHBY",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/rhhby_1627391187.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "RHHBY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -49.56,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "China Life Insurance Co. Ltd.",
+    "symbol": "LFC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/lfc.png",
+    "priceInfo": {
+      "symbol": "LFC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -8.42,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "American Tower Corporation",
+    "symbol": "AMT",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/amt.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "AMT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -275.3,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Workday, Inc.",
+    "symbol": "WDAY",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/wday.png",
+    "priceInfo": {
+      "symbol": "WDAY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -230.7,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Coca-Cola FEMSA S.A.B de C.V.",
+    "symbol": "KOF",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/kof.png",
+    "priceInfo": {
+      "symbol": "KOF",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -57.13,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Takeda Pharmaceutical Company Limited",
+    "symbol": "TAK",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/tak.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "TAK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -16.35,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Chevron Corporation",
+    "symbol": "CVX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cvx.png",
+    "priceInfo": {
+      "symbol": "CVX",
+      "tradePrice": {
+        "value": 103.1,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 103.1,
+        "currency": "USD"
+      },
+      "percentageChange": 100.99921630094045,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "DoorDash",
+    "symbol": "DASH",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/dash_1607010210.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "DASH",
+      "tradePrice": {
+        "value": 195,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 195,
+        "currency": "USD"
+      },
+      "percentageChange": 102.5452250736222,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Regeneron Pharmaceuticals, Inc.",
+    "symbol": "REGN",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "REGN",
+      "tradePrice": {
+        "value": 625.31,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 625.31,
+        "currency": "USD"
+      },
+      "percentageChange": 101.67972942209502,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Prudential plc",
+    "symbol": "PUK",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/puk.png",
+    "priceInfo": {
+      "symbol": "PUK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -40.42,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "General Electric Company",
+    "symbol": "GE",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ge.png",
+    "priceInfo": {
+      "symbol": "GE",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -106.08,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Netflix, Inc.",
+    "symbol": "NFLX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/nflx.png",
+    "priceInfo": {
+      "symbol": "NFLX",
+      "tradePrice": {
+        "value": 514.38,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 514.38,
+        "currency": "USD"
+      },
+      "percentageChange": 99.71696650124069,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "National Grid plc",
+    "symbol": "NGG",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/ngg.png",
+    "priceInfo": {
+      "symbol": "NGG",
+      "tradePrice": {
+        "value": 65.96,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 65.96,
+        "currency": "USD"
+      },
+      "percentageChange": 100.09104704097116,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Schlumberger Limited",
+    "symbol": "SLB",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SLB",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -28.42,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Wipro Ltd.",
+    "symbol": "WIT",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/wit.png",
+    "priceInfo": {
+      "symbol": "WIT",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -8.55,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Airbnb",
+    "symbol": "ABNB",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/abnb_1607010697.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "ABNB",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -147.95,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Canadian National Railway Company",
+    "symbol": "CNI",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "CNI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -107.31,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Palantir Technologies Inc",
+    "symbol": "PLTR",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/pltr.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "PLTR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -22.92,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "T-Mobile US, Inc.",
+    "symbol": "TMUS",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TMUS",
+      "tradePrice": {
+        "value": 148.62,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 148.62,
+        "currency": "USD"
+      },
+      "percentageChange": 103.78491620111734,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "S&P Global, Inc.",
+    "symbol": "SPGI",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SPGI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -434.49,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Thermo Fisher Scientific, Inc.",
+    "symbol": "TMO",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TMO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -540.37,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Banco Bilbao Vizcaya Argentaria, S.A.",
+    "symbol": "BBVA",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/bbva.png",
+    "priceInfo": {
+      "symbol": "BBVA",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -6.8,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Dow Chemical Company, The",
+    "symbol": "DOW",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/dow.png",
+    "priceInfo": {
+      "symbol": "DOW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -63.12,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Estée Lauder Companies Inc.",
+    "symbol": "EL",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "EL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -327.72,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "General Dynamics Corporation",
+    "symbol": "GD",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "GD",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -199.02,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Westpac Banking Corporation",
+    "symbol": "WBK",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/wbk.png",
+    "priceInfo": {
+      "symbol": "WBK",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -18.83,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Progressive Corp.",
+    "symbol": "PGR",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "PGR",
+      "tradePrice": {
+        "value": 98.3,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 98.3,
+        "currency": "USD"
+      },
+      "percentageChange": 102.02387130254283,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Veeva Systems Inc.",
+    "symbol": "VEEV",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "VEEV",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -319.85,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Brookfield Asset Management Inc.",
+    "symbol": "BAM",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/bam.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "BAM",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -57.28,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Lowe's Companies Inc.",
+    "symbol": "LOW",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/low.png",
+    "priceInfo": {
+      "symbol": "LOW",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -189.73,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Baxter International Inc.",
+    "symbol": "BAX",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/bax.png",
+    "priceInfo": {
+      "symbol": "BAX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -73.85,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "eBay Inc.",
+    "symbol": "EBAY",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ebay.png",
+    "priceInfo": {
+      "symbol": "EBAY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -67.31,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "EOG Resources, Inc.",
+    "symbol": "EOG",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "EOG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -68.73,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "TE Connectivity Ltd.",
+    "symbol": "TEL",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TEL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -149.99,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Constellation Brands Inc.",
+    "symbol": "STZ",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "STZ",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -218.06,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "PetroChina Co. Ltd.",
+    "symbol": "PTR",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ptr.png",
+    "priceInfo": {
+      "symbol": "PTR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -42.18,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Lam Research Corporation",
+    "symbol": "LRCX",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "LRCX",
+      "tradePrice": {
+        "value": 606.59,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 606.59,
+        "currency": "USD"
+      },
+      "percentageChange": 98.28572354456634,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Coca-Cola Company, The",
+    "symbol": "KO",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/ko.png",
+    "priceInfo": {
+      "symbol": "KO",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -56.8,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Chipotle Mexican Grill, Inc.",
+    "symbol": "CMG",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/cmg.png",
+    "priceInfo": {
+      "symbol": "CMG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -1866.79,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "MetLife, Inc.",
+    "symbol": "MET",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "MET",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -61.73,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Walgreens Boots Alliance, Inc.",
+    "symbol": "WBA",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/wba.png",
+    "priceInfo": {
+      "symbol": "WBA",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -48.43,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Wells Fargo & Co.",
+    "symbol": "WFC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/wfc.png",
+    "priceInfo": {
+      "symbol": "WFC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -49.63,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "TJX Companies, Inc., The",
+    "symbol": "TJX",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "TJX",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -71.43,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "O'Reilly Automotive Inc.",
+    "symbol": "ORLY",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ORLY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -600.65,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Crown Castle International Corp.",
+    "symbol": "CCI",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "CCI",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -190.97,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Micron Technology Inc.",
+    "symbol": "MU",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/mu.png",
+    "priceInfo": {
+      "symbol": "MU",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -75.91,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Royal Bank of Canada",
+    "symbol": "RY",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "RY",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -104.03,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Honda Motor Co., Ltd.",
+    "symbol": "HMC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/hmc.png",
+    "priceInfo": {
+      "symbol": "HMC",
+      "tradePrice": {
+        "value": 33.09,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 33.09,
+        "currency": "USD"
+      },
+      "percentageChange": 100.88414634146343,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "PayPal Holdings, Inc.",
+    "symbol": "PYPL",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/pypl.png",
+    "priceInfo": {
+      "symbol": "PYPL",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -274.37,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Koninklijke Philips N.V",
+    "symbol": "PHG",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/phg.png",
+    "priceInfo": {
+      "symbol": "PHG",
+      "tradePrice": {
+        "value": 44.28,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 44.28,
+        "currency": "USD"
+      },
+      "percentageChange": 99.14912673533364,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Eni SpA",
+    "symbol": "E",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/e.png",
+    "priceInfo": {
+      "symbol": "E",
+      "tradePrice": {
+        "value": 24.57,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 24.57,
+        "currency": "USD"
+      },
+      "percentageChange": 101.31958762886597,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Intuitive Surgical, Inc.",
+    "symbol": "ISRG",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ISRG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -995.62,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Ross Stores Inc.",
+    "symbol": "ROST",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "ROST",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -125.74,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Lloyds Banking Group plc",
+    "symbol": "LYG",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/lyg.png",
+    "priceInfo": {
+      "symbol": "LYG",
+      "tradePrice": {
+        "value": 2.56,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 2.56,
+        "currency": "USD"
+      },
+      "percentageChange": 100.3921568627451,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "American Electric Power Co., Inc.",
+    "symbol": "AEP",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/aep.png",
+    "priceInfo": {
+      "symbol": "AEP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -88.72,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Monster Beverage Corporation",
+    "symbol": "MNST",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/mnst.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "MNST",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -98.79,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Agilent Technologies Inc.xxxx",
+    "symbol": "A",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/a.png",
+    "priceInfo": {
+      "symbol": "A",
+      "tradePrice": {
+        "value": 160.87,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 160.87,
+        "currency": "USD"
+      },
+      "percentageChange": 102.7791975466394,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "AstraZeneca PLC",
+    "symbol": "AZN",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/azn.png",
+    "priceInfo": {
+      "symbol": "AZN",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -56.41,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Keurig Dr Pepper Inc",
+    "symbol": "KDP",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/kdp.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "KDP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -34.37,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Simon Property Group Inc.",
+    "symbol": "SPG",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SPG",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -132.11,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Carrier",
+    "symbol": "CARR",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/carr.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "CARR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -56.61,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Amphenol Corporation",
+    "symbol": "APH",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/aph.png",
+    "priceInfo": {
+      "symbol": "APH",
+      "tradePrice": {
+        "value": 76.44,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 76.44,
+        "currency": "USD"
+      },
+      "percentageChange": 103.81637919326361,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Amgen Inc.",
+    "symbol": "AMGN",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/amgn.png",
+    "priceInfo": {
+      "symbol": "AMGN",
+      "tradePrice": {
+        "value": 231.8,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 231.8,
+        "currency": "USD"
+      },
+      "percentageChange": 101.68450605369364,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Exelon Corporation",
+    "symbol": "EXC",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/exc.png",
+    "priceInfo": {
+      "symbol": "EXC",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -47.56,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "HCA Holdings, Inc.",
+    "symbol": "HCA",
+    "imageURL": "https://d3an3cesqmrf1x.cloudfront.net/images/symbols/hca.png",
+    "priceInfo": {
+      "symbol": "HCA",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -240.66,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "FedEx Corporation",
+    "symbol": "FDX",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "FDX",
+      "tradePrice": {
+        "value": 278.99,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 278.99,
+        "currency": "USD"
+      },
+      "percentageChange": 102.84966452849665,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Sempra Energy",
+    "symbol": "SRE",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "SRE",
+      "tradePrice": {
+        "value": 135.96,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 135.96,
+        "currency": "USD"
+      },
+      "percentageChange": 103.19544592030361,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Carvana Co.",
+    "symbol": "CVNA",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/cvna.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "CVNA",
+      "tradePrice": {
+        "value": 368.2,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 368.2,
+        "currency": "USD"
+      },
+      "percentageChange": 99.48662523642258,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Digital Realty Trust Inc.",
+    "symbol": "DLR",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/dlr.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "DLR",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -154.37,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Union Pacific Corporation",
+    "symbol": "UNP",
+    "imageURL": "",
+    "priceInfo": {
+      "symbol": "UNP",
+      "tradePrice": {
+        "value": 0,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": -221.71,
+        "currency": "USD"
+      },
+      "percentageChange": -100,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Pfizer Inc.",
+    "symbol": "PFE",
+    "imageURL": "https://uat-drivewealth.imgix.net/symbols/pfe_1609948275.png?fit=fillmax&w=125&h=125&bg=FFFFFF",
+    "priceInfo": {
+      "symbol": "PFE",
+      "tradePrice": {
+        "value": 46.35,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 46.35,
+        "currency": "USD"
+      },
+      "percentageChange": 96.18178045237602,
+      "status": "ACTIVE"
+    }
+  },
+  {
+    "name": "Vale S.A.",
+    "symbol": "VALE",
+    "imageURL": "http://syscdn.drivewealth.net/images/symbols/vale.png",
+    "priceInfo": {
+      "symbol": "VALE",
+      "tradePrice": {
+        "value": 21.14,
+        "currency": "USD"
+      },
+      "actualChange": {
+        "value": 21.14,
+        "currency": "USD"
+      },
+      "percentageChange": 99.9054820415879,
+      "status": "ACTIVE"
+    }
+  }
+]
+
